@@ -38,7 +38,7 @@
     "homepage": "https://github.com/kubeflow/kubeflow#readme",
     "dependencies": {
         "@babel/polyfill": "^7.6.0",
-        "@google-cloud/monitoring": "^0.7.1",
+        "@google-cloud/monitoring": "^6.2.0",
         "@kubernetes/client-node": "^0.8.2",
         "@polymer/app-layout": "^3.1.0",
         "@polymer/app-route": "^3.0.0",
@@ -97,7 +97,7 @@
         "eslint-plugin-jasmine": "^2.10.1",
         "exports-loader": "^0.7.0",
         "file-loader": "^3.0.1",
-        "google-auth-library": "^5.9.2",
+        "google-auth-library": "^11.3.4",
         "html-webpack-plugin": "^3.2.0",
         "istanbul-instrumenter-loader": "^3.0.1",
         "jasmine": "^3.5.0",
@@ -125,6 +125,6 @@
         "url-loader": "^1.1.2",
         "webpack": "^4.41.0",
         "webpack-cli": "^3.3.9",
-        "webpack-dev-server": "^3.8.2"
+        "webpack-dev-server": "^6.1.0"
     }
 }
